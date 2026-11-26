@@ -1,3 +1,3 @@
 项目笔记
 
-首选语言：Python
+首选语言：TypeScript
